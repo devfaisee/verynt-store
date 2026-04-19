@@ -7,8 +7,15 @@
     <link>https://verynt.com/</link>
     <description>Practical ebooks from Verynt.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 03:54:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 05:24:12 +0000</lastBuildDate>
     <atom:link href="https://verynt.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[30-Day Habit Stacking for Recovering Perfectionists: Build Sustainable Habits]]></title>
+      <link>https://verynt.com/blog/30-day-habit-stacking-for-recovering-perfectionists/</link>
+      <guid isPermaLink='true'>https://verynt.com/blog/30-day-habit-stacking-for-recovering-perfectionists/</guid>
+      <description><![CDATA[Discover 30-day habit stacking for recovering perfectionists. Learn to build sustainable habits without self-sabotage. Start your journey to imperfect progress today!]]></description>
+      <enclosure url='https://verynt.com/books/30-day-habit-stacking-for-recovering-perfectionists/cover.jpg' type='image/jpeg'/>
+    </item>
     <item>
       <title><![CDATA[30-Day Subconscious Mind Reprogramming for Anxiety Relief: A Science-Backed Plan]]></title>
       <link>https://verynt.com/blog/30-day-subconscious-mind-reprogramming-for-anxiety-relief/</link>
@@ -22,6 +29,13 @@
       <guid isPermaLink='true'>https://verynt.com/blog/ancient-babylonian-wealth-rituals-for-modern-freelancers/</guid>
       <description><![CDATA[Discover ancient Babylonian wealth rituals for modern freelancers. Transform your finances with time-tested strategies. Start building consistent wealth today!]]></description>
       <enclosure url='https://verynt.com/books/ancient-babylonian-wealth-rituals-for-modern-freelancers/cover.jpg' type='image/jpeg'/>
+    </item>
+    <item>
+      <title><![CDATA[Ancient Stoic Productivity Hacks for Startup Founders to Thrive Under Pressure]]></title>
+      <link>https://verynt.com/blog/ancient-stoic-productivity-hacks-for-startup-founders/</link>
+      <guid isPermaLink='true'>https://verynt.com/blog/ancient-stoic-productivity-hacks-for-startup-founders/</guid>
+      <description><![CDATA[Discover ancient stoic productivity hacks for startup founders to achieve calm, focused productivity and avoid burnout. Learn timeless strategies for success. Download the ebook now!]]></description>
+      <enclosure url='https://verynt.com/books/ancient-stoic-productivity-hacks-for-startup-founders/cover.jpg' type='image/jpeg'/>
     </item>
     <item>
       <title><![CDATA[Applying the 48 Laws of Power in Remote Work Teams: Master Virtual Leadership]]></title>
@@ -50,6 +64,13 @@
       <guid isPermaLink='true'>https://verynt.com/blog/atomic-habits-for-remote-workers-building-discipline-without-office-structure/</guid>
       <description><![CDATA[Discover how to build Atomic Habits for Remote Workers: Building Discipline Without Office Structure. Transform your productivity and achieve effortless high-performance habits. Get started today!]]></description>
       <enclosure url='https://verynt.com/books/atomic-habits-for-remote-workers-building-discipline-without-office-structure/cover.jpg' type='image/jpeg'/>
+    </item>
+    <item>
+      <title><![CDATA[Community-Driven Skill Mastery for Solopreneurs: Accelerate High-Income Skills Faster]]></title>
+      <link>https://verynt.com/blog/community-driven-skill-mastery-for-solopreneurs/</link>
+      <guid isPermaLink='true'>https://verynt.com/blog/community-driven-skill-mastery-for-solopreneurs/</guid>
+      <description><![CDATA[Discover how solopreneurs use community-driven skill mastery to rapidly acquire high-income skills. Learn neuroscience-backed techniques and cohort-based learning for accelerated success.]]></description>
+      <enclosure url='https://verynt.com/books/community-driven-skill-mastery-for-solopreneurs/cover.jpg' type='image/jpeg'/>
     </item>
     <item>
       <title><![CDATA[Focused Thinking Techniques for Solopreneurs with ADHD - Hyperfocus Hacks]]></title>

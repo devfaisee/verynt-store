@@ -3,10 +3,14 @@
   <url><loc>https://verynt.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://verynt.com/blog/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://verynt.com/about/</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://verynt.com/books/30-day-habit-stacking-for-recovering-perfectionists/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://verynt.com/blog/30-day-habit-stacking-for-recovering-perfectionists/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://verynt.com/books/30-day-subconscious-mind-reprogramming-for-anxiety-relief/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://verynt.com/blog/30-day-subconscious-mind-reprogramming-for-anxiety-relief/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://verynt.com/books/ancient-babylonian-wealth-rituals-for-modern-freelancers/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://verynt.com/blog/ancient-babylonian-wealth-rituals-for-modern-freelancers/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://verynt.com/books/ancient-stoic-productivity-hacks-for-startup-founders/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://verynt.com/blog/ancient-stoic-productivity-hacks-for-startup-founders/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://verynt.com/books/applying-the-48-laws-of-power-in-remote-work-teams/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://verynt.com/blog/applying-the-48-laws-of-power-in-remote-work-teams/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://verynt.com/books/atomic-habits-for-college-students-with-adhd/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
@@ -15,6 +19,8 @@
   <url><loc>https://verynt.com/blog/atomic-habits-for-recovering-perfectionists-in-creative-fields/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://verynt.com/books/atomic-habits-for-remote-workers-building-discipline-without-office-structure/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://verynt.com/blog/atomic-habits-for-remote-workers-building-discipline-without-office-structure/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://verynt.com/books/community-driven-skill-mastery-for-solopreneurs/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://verynt.com/blog/community-driven-skill-mastery-for-solopreneurs/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://verynt.com/books/focused-thinking-techniques-for-solopreneurs-with-adhd/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://verynt.com/blog/focused-thinking-techniques-for-solopreneurs-with-adhd/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://verynt.com/books/mastering-atomic-habits-for-busy-entrepreneurs-over-40/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
