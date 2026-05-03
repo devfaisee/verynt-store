@@ -7,7 +7,7 @@
     <link>https://verynt.com/</link>
     <description>Practical ebooks from Verynt.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 06:17:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 06:40:05 +0000</lastBuildDate>
     <atom:link href="https://verynt.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title><![CDATA[30-Day Habit Stacking for Recovering Perfectionists: Build Sustainable Habits]]></title>
@@ -43,6 +43,13 @@
       <guid isPermaLink='true'>https://verynt.com/blog/applying-the-48-laws-of-power-in-remote-work-teams/</guid>
       <description><![CDATA[Discover how applying the 48 Laws of Power in remote work teams can help you lead, persuade, and dominate in virtual settings. Learn actionable strategies today!]]></description>
       <enclosure url='https://verynt.com/books/applying-the-48-laws-of-power-in-remote-work-teams/cover.jpg' type='image/jpeg'/>
+    </item>
+    <item>
+      <title><![CDATA[Atomic Habits for Busy Parents with Zero Free Time: 5-Minute Wins]]></title>
+      <link>https://verynt.com/blog/atomic-habits-for-busy-parents-with-zero-free-time/</link>
+      <guid isPermaLink='true'>https://verynt.com/blog/atomic-habits-for-busy-parents-with-zero-free-time/</guid>
+      <description><![CDATA[Discover how busy parents can build Atomic Habits with zero free time. Tiny, sustainable routines for exhausted achievers. Grab the free guide now!]]></description>
+      <enclosure url='https://verynt.com/books/atomic-habits-for-busy-parents-with-zero-free-time/cover.jpg' type='image/jpeg'/>
     </item>
     <item>
       <title><![CDATA[Atomic Habits for College Students with ADHD: Hack Productivity]]></title>
